@@ -45,10 +45,8 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 	13 427	413 - 504 MODULE 13 Binary Search Trees  
 	    			Ch 21 Binary Trees 1257   
 	14 504	420 - 520 MODULE 14 Binary Search Tree App   
-	    			    Project Description
-	15 511	427 - 520 MODULE 15 Hash Table   
-	    			    Mark Weiss Chapter 5 193
-	16 518	513 - 520 MODULE 16 TERM Review  
+	    			    Project Description - Recursive Fractal
+	15 518	513 - 520 MODULE 16 TERM Review  
 	   520	Final exam 7:00pm - 9:00pm
 
 
